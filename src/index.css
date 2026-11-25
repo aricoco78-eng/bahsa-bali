@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', 'Noto Sans Balinese', ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-bali {
+  font-family: 'Noto Sans Balinese', 'Plus Jakarta Sans', sans-serif;
+  line-height: 2;
+}
